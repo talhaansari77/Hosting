@@ -76,7 +76,7 @@
 
 <div class="row text-center m-0 p-0">
     <div class="container-fluid col-xl-3 col-lg-4 col-md-5 col-sm-6" style="height:300px;width: 300px; ;">
-        <a href="home.html"><img src="Images/RevampHomeCatImage15102019.png" class="img-fluid" height="300px"
+        <a href="home.html"><img src="https://source.unsplash.com/300x300/?clothes" class="img-fluid" height="300px"
                                  width="300px;"></a>
     </div>
     <br>
@@ -90,7 +90,7 @@
 
 <div class="row text-center mt-2 m-0 p-0">
     <div class="container-fluid col-xl-3 col-lg-4 col-md-5 col-sm-6 " style="height:300px;width: 300px;">
-        <a href="asseccires.html"><img src="Images/RevampAccesoriesCatImage15102019.png" class="img-fluid"
+        <a href="asseccires.html"><img src="https://source.unsplash.com/300x300/?jewelry" class="img-fluid"
                                        height="300px" width="300px;"></a>
     </div>
     <br>
