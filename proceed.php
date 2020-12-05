@@ -35,7 +35,7 @@
                                 </div>
                                 <div class="col-12 text-center mt-5">
                                     <div>
-                                        <img src="Images/PKPretCatImage07112019.jpg" height="100px">
+                                        <img src="https://source.unsplash.com/100x100/?fashion" height="100px">
                                     </div>
                                     <div class="h5">
                                        Product name <br> Size:XL<br>PKR 1800
