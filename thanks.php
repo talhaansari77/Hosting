@@ -51,7 +51,8 @@
                     <div class="container bg-warning">
                             <div class="container bg-primary">
                                     <div class="container bg-success display-1 text-center">
-                                        Thank You For Coming
+                                        Thank You For Coming!
+                                        Thank You For Coming!
                                     </div>
                             </div>
                     </div>
